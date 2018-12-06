@@ -3,4 +3,6 @@ Conversions
 	Multiply rand by 100
 	
 - Km to m
+	Multiply km to 1000
+
 - Liter to ml
