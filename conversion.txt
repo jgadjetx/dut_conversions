@@ -1,4 +1,6 @@
 Conversions
 - Rands To Cents
+	Multiply rand by 100
+	
 - Km to m
 - Liter to ml
